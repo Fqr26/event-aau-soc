@@ -1,5 +1,4 @@
-// import React from "react";
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 
 interface MapProps {
   highlighted: boolean;
